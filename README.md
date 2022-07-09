@@ -1,2 +1,2 @@
 # alura-studies
-Cronometro Iniciando com React
+Cronometro Iniciando com React - Treinamento - Alura
